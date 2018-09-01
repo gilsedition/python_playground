@@ -1,3 +1,10 @@
 - To compile a py file: 
 	python -m compileall test_model.py
 - pyc file is inside __pycache__
+
+- to create a clickable file, creat a bat file with contents:
+
+	@echo off
+	"path of python.exe" "path of py or pyc script which you have written"
+
+and save the file in .bat extension.

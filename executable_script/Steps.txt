@@ -1,0 +1,3 @@
+- To compile a py file: 
+	python -m compileall test_model.py
+- pyc file is inside __pycache__
